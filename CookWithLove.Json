@@ -1,10 +1,10 @@
 {
-  "latestVersion": "0.7",
-  "latestVersionCode": 7,
-  "minimumAllowedVersionCode": 7,
+  "latestVersion": "0.8",
+  "latestVersionCode": 8,
+  "minimumAllowedVersionCode": 8,
   "disableRequest": {
-    "below": 7,
-    "on": "6,5,4,3,2,1"
+    "below": 8,
+    "on": "7,6,5,4,3,2,1"
   },
   "url": "https://play.google.com/store/apps/details?id=com.padmanabhan.cookwithlove",
   "releaseNotes": [
